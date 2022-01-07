@@ -22,5 +22,5 @@ fs.createReadStream('data.csv')
   .on('data', (data) => results.push(data))
   .on('end', () => {
     // results = data.csv to JS editable format
-    
+    console.log(results);
   });
