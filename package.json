@@ -1,0 +1,23 @@
+{
+  "name": "csv-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roselpadilla1/csv-prompt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roselpadilla1/csv-prompt/issues"
+  },
+  "homepage": "https://github.com/roselpadilla1/csv-prompt#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
